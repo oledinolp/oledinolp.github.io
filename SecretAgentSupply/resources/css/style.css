@@ -4,7 +4,7 @@ html {
 }
 
 body {
-	display: block;;
+	display: block;
 	margin: 0;
 	font-family: Helvetica, sans-serif;
 }
@@ -198,12 +198,10 @@ footer {
 	}
 
 	.product {
-    width: 100%;
+    width: 40%;
 	}
 
-	.info {
-	width: 100%;
-	}
+	
 
 }
 
